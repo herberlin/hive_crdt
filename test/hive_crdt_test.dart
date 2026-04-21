@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:hive/hive.dart';
+import 'package:hive_ce/hive.dart';
 import 'package:hive_crdt/src/hive_adapters.dart';
 import 'package:hive_crdt/src/hive_crdt.dart';
 import 'package:test/test.dart';

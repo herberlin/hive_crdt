@@ -1,6 +1,6 @@
 import 'package:crdt/crdt.dart';
 import 'package:crdt/map_crdt.dart';
-import 'package:hive/hive.dart';
+import 'package:hive_ce/hive.dart';
 
 class RecordAdapter extends TypeAdapter<Record> {
   @override

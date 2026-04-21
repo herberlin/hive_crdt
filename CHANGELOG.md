@@ -1,3 +1,7 @@
+## 3.2.0
+
+- Migration to hive_ce
+
 ## 3.1.2
 
 - Update dependencies

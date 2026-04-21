@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:crdt/map_crdt.dart';
-import 'package:hive/hive.dart';
+import 'package:hive_ce/hive.dart';
 
 export 'package:crdt/crdt.dart';
 
